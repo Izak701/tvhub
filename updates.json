@@ -1,5 +1,5 @@
 {"apps":[
- {"pkg":"com.example.tvlauncher","code":49,"name":"13.4-ffmpeg","url":"https://github.com/Izak701/tvhub/releases/latest/download/Launcher.apk","notes":""},
- {"pkg":"com.example.pult","code":12,"name":"2.0","url":"https://github.com/Izak701/tvhub/releases/latest/download/Pult.apk","notes":""},
- {"pkg":"com.example.peredacha","code":11,"name":"2.7","url":"https://github.com/Izak701/tvhub/releases/latest/download/Peredacha.apk","notes":""}
+ {"pkg":"com.example.tvlauncher","code":50,"name":"13.5-ffmpeg","url":"https://github.com/Izak701/tvhub/releases/latest/download/Launcher.apk","notes":""},
+ {"pkg":"com.example.pult","code":13,"name":"2.1","url":"https://github.com/Izak701/tvhub/releases/latest/download/Pult.apk","notes":""},
+ {"pkg":"com.example.peredacha","code":13,"name":"2.9","url":"https://github.com/Izak701/tvhub/releases/latest/download/Peredacha.apk","notes":""}
 ]}
