@@ -1,4 +1,4 @@
- tvhub
+# tvhub
 
 A small family of Android apps for TVs, projectors and phones. Built and tested on a 1 GB RAM projector, a 4 GB Android TV box and a phone with Android 16. Apps are developed directly on a phone with *Code On The Go*.
 
@@ -9,6 +9,8 @@ A small family of Android apps for TVs, projectors and phones. Built and tested 
 | **Launcher** (Лаунчер) | `com.example.tvlauncher` | Android TV style home screen: rows of apps (1–4 lines per row), wallpapers, spectrometer, built-in IPTV player, screensaver, sleep timer, one-tap memory clean. |
 | **Pult** (Пульт) | `com.example.pult` | Phone as a remote: trackpad, keyboard, TV-remote pad, screen mirroring both ways between phone, Android TV and PC. |
 | **Peredacha** (Передача) | `com.example.peredacha` | Send files and text between devices over Wi‑Fi or Bluetooth, even without a router (phone hotspot works). |
+
+Step-by-step ADB / accessibility guide: [docs/SETUP.md](docs/SETUP.md)
 
 ## Install
 
